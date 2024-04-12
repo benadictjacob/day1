@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(129, 115, 130);
+}
+.para{
+    color: rgb(17, 23, 23);
+    text-align: center;
+    
+    
+}
+.img{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+
+}
